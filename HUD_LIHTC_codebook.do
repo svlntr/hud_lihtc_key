@@ -1,4 +1,4 @@
-import delimited "R:\ECON\DSheehanConnor\svalentiner\DATA\HUD - LIHTC by Property\LIHTCPUB\LIHTCPUB.CSV", clear
+import delimited "LIHTCPUB\LIHTCPUB.CSV", clear
 
 // LABELS
 	label var hud_id "Project Identifier for the Database"
